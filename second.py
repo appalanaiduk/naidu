@@ -4,3 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> y=2
 >>> print(x+y)
 3
+a=100
+b=200
+print(a+b)
+
