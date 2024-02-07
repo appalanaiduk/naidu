@@ -1,0 +1,5 @@
+This is my first line
+$ git status
+[A[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+$ [C[C[C[C[C[C[D[D[D[D[D[DThis is[C[C[C[C[C[C[D[D[D[D[D[D my first line
+$ git status
