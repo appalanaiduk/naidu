@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+    <h1>Show Page</h1>
+    {% if key1 %}
+    {% for i in key1 %}
+    ImageName:{{i.imgname}}
+    <br>
+    <img src="{{MEDIA_URL}}{{i.Image.url}}" alt="" srcset="">
+    {% endfor %}
+    {% endif %}
+</body>
+</html>
